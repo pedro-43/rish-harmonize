@@ -1,0 +1,16 @@
+subject,site,rish_dir
+THP0001_CCF,CCF,processing/template_rish/THP0001/CCF/
+THP0001_IOWA,IOWA,processing/template_rish/THP0001/IOWA/
+THP0001_MGH,MGH,processing/template_rish/THP0001/MGH/
+THP0002_CCF,CCF,processing/template_rish/THP0002/CCF/
+THP0002_IOWA,IOWA,processing/template_rish/THP0002/IOWA/
+THP0002_MGH,MGH,processing/template_rish/THP0002/MGH/
+THP0003_CCF,CCF,processing/template_rish/THP0003/CCF/
+THP0003_IOWA,IOWA,processing/template_rish/THP0003/IOWA/
+THP0003_MGH,MGH,processing/template_rish/THP0003/MGH/
+THP0004_CCF,CCF,processing/template_rish/THP0004/CCF/
+THP0004_IOWA,IOWA,processing/template_rish/THP0004/IOWA/
+THP0004_MGH,MGH,processing/template_rish/THP0004/MGH/
+THP0005_CCF,CCF,processing/template_rish/THP0005/CCF/
+THP0005_IOWA,IOWA,processing/template_rish/THP0005/IOWA/
+THP0005_MGH,MGH,processing/template_rish/THP0005/MGH/

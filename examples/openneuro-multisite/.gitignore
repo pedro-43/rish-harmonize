@@ -1,0 +1,3 @@
+# Downloaded data and pipeline derivatives — regenerate with download.sh / run_pipeline.sh
+data/
+processing/
